@@ -1,0 +1,24 @@
+﻿1. What is your understanding of blockchain?
+- It is a technology mixture of Distributed Database and Cryptography where the data is tamper-proof, unchangeable, verifiable and cant be destroyed.
+
+
+2. What is the core problem blockchain is try to solve?
+- Autenticity and verifiable data that is decentralised which is transparent and less prone to hacking or tampering.
+
+
+3. Features of Blockchain:
+- Verifiable
+- Unchangeable
+- Tamper proof
+- Immutable
+
+
+4. What are the things that a Block will contain?
+- Block number
+- Previous block signature
+- Transaction record or data
+- Mining key
+
+
+5. How the verifiability of Blockcahin is attained?
+- The data is distributed in various databases simultanesously and takes place every 10 seconds. Each block contains new signature, data, signature of the previous block. If the data is tampered at any point of time in a database or a system, the following blocks in that database or system will have different block signatures than that of systems or databases that are un tampered. At any point of time one can compare the block signature with other systems or databases to check if it is same. Hence we can verify.
